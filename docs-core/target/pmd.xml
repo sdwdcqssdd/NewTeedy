@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2024-05-07T23:33:29.470">
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/AclDao.java">
+<violation beginline="25" endline="185" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="AclDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/AuditLogDao.java">
+<violation beginline="24" endline="101" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="AuditLogDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/AuthenticationTokenDao.java">
+<violation beginline="18" endline="125" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="AuthenticationTokenDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/CommentDao.java">
+<violation beginline="23" endline="114" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="CommentDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/ConfigDao.java">
+<violation beginline="15" endline="55" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="ConfigDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/ContributorDao.java">
+<violation beginline="18" endline="77" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="ContributorDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/DocumentDao.java">
+<violation beginline="24" endline="251" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="DocumentDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/DocumentMetadataDao.java">
+<violation beginline="19" endline="89" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="DocumentMetadataDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/FileDao.java">
+<violation beginline="21" endline="227" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="FileDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/GroupDao.java">
+<violation beginline="25" endline="270" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="GroupDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+<violation beginline="162" endline="223" begincolumn="12" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.dao" class="GroupDao" method="findByCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'findByCriteria(GroupCriteria, SortCriteria)' has a cyclomatic complexity of 11.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/MetadataDao.java">
+<violation beginline="25" endline="146" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="MetadataDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/PasswordRecoveryDao.java">
+<violation beginline="20" endline="68" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="PasswordRecoveryDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/RelationDao.java">
+<violation beginline="16" endline="93" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="RelationDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/RoleBaseFunctionDao.java">
+<violation beginline="15" endline="32" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="RoleBaseFunctionDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/RouteDao.java">
+<violation beginline="23" endline="111" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="RouteDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/RouteModelDao.java">
+<violation beginline="26" endline="168" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="RouteModelDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/RouteStepDao.java">
+<violation beginline="25" endline="154" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="RouteStepDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/ShareDao.java">
+<violation beginline="16" endline="58" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="ShareDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/TagDao.java">
+<violation beginline="26" endline="225" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="TagDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/UserDao.java">
+<violation beginline="33" endline="397" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="UserDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/VocabularyDao.java">
+<violation beginline="17" endline="102" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="VocabularyDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/WebhookDao.java">
+<violation beginline="23" endline="120" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao" class="WebhookDao" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/AuditLogCriteria.java">
+<violation beginline="9" endline="49" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="AuditLogCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/DocumentCriteria.java">
+<violation beginline="13" endline="202" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="DocumentCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/GroupCriteria.java">
+<violation beginline="8" endline="50" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="GroupCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/MetadataCriteria.java">
+<violation beginline="8" endline="9" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="MetadataCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/RouteCriteria.java">
+<violation beginline="9" endline="23" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="RouteCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/RouteModelCriteria.java">
+<violation beginline="11" endline="25" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="RouteModelCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/RouteStepCriteria.java">
+<violation beginline="9" endline="51" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="RouteStepCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/TagCriteria.java">
+<violation beginline="10" endline="52" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="TagCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/UserCriteria.java">
+<violation beginline="8" endline="64" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="UserCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/criteria/WebhookCriteria.java">
+<violation beginline="10" endline="24" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.criteria" class="WebhookCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/AclDto.java">
+<violation beginline="10" endline="88" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="AclDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/AuditLogDto.java">
+<violation beginline="10" endline="101" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="AuditLogDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/CommentDto.java">
+<violation beginline="8" endline="73" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="CommentDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/ContributorDto.java">
+<violation beginline="8" endline="34" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="ContributorDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/DocumentDto.java">
+<violation beginline="8" endline="284" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="DocumentDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/DocumentMetadataDto.java">
+<violation beginline="10" endline="94" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="DocumentMetadataDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/GroupDto.java">
+<violation beginline="8" endline="88" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="GroupDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/MetadataDto.java">
+<violation beginline="10" endline="52" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="MetadataDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/RelationDto.java">
+<violation beginline="8" endline="47" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="RelationDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/RouteDto.java">
+<violation beginline="8" endline="50" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="RouteDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/RouteModelDto.java">
+<violation beginline="8" endline="50" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="RouteModelDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/RouteStepDto.java">
+<violation beginline="14" endline="201" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="RouteStepDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/TagDto.java">
+<violation beginline="8" endline="78" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="TagDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/UserDto.java">
+<violation beginline="10" endline="124" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="UserDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/dao/dto/WebhookDto.java">
+<violation beginline="8" endline="74" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.dao.dto" class="WebhookDto" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/AclCreatedAsyncEvent.java">
+<violation beginline="8" endline="9" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="AclCreatedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/AclDeletedAsyncEvent.java">
+<violation beginline="8" endline="9" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="AclDeletedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/AclEvent.java">
+<violation beginline="11" endline="62" begincolumn="17" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="AclEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/DocumentCreatedAsyncEvent.java">
+<violation beginline="10" endline="30" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="DocumentCreatedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/DocumentDeletedAsyncEvent.java">
+<violation beginline="10" endline="30" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="DocumentDeletedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/DocumentUpdatedAsyncEvent.java">
+<violation beginline="10" endline="30" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="DocumentUpdatedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/FileCreatedAsyncEvent.java">
+<violation beginline="8" endline="9" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="FileCreatedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/FileDeletedAsyncEvent.java">
+<violation beginline="10" endline="30" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="FileDeletedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/FileEvent.java">
+<violation beginline="12" endline="60" begincolumn="17" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="FileEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/FileUpdatedAsyncEvent.java">
+<violation beginline="8" endline="9" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="FileUpdatedAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/PasswordLostEvent.java">
+<violation beginline="12" endline="46" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="PasswordLostEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/RebuildIndexAsyncEvent.java">
+<violation beginline="10" endline="16" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="RebuildIndexAsyncEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/RouteStepValidateEvent.java">
+<violation beginline="12" endline="47" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="RouteStepValidateEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/event/UserEvent.java">
+<violation beginline="8" endline="21" begincolumn="17" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.event" class="UserEvent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/AclCreatedAsyncListener.java">
+<violation beginline="16" endline="37" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="AclCreatedAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/AclDeletedAsyncListener.java">
+<violation beginline="16" endline="37" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="AclDeletedAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/DocumentCreatedAsyncListener.java">
+<violation beginline="20" endline="57" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="DocumentCreatedAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/DocumentDeletedAsyncListener.java">
+<violation beginline="16" endline="39" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="DocumentDeletedAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/DocumentUpdatedAsyncListener.java">
+<violation beginline="24" endline="83" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="DocumentUpdatedAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/FileDeletedAsyncListener.java">
+<violation beginline="17" endline="44" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="FileDeletedAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/FileProcessingAsyncListener.java">
+<violation beginline="38" endline="186" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="FileProcessingAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/PasswordLostAsyncListener.java">
+<violation beginline="22" endline="52" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="PasswordLostAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/RebuildIndexAsyncListener.java">
+<violation beginline="22" endline="71" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="RebuildIndexAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/RouteStepValidateAsyncListener.java">
+<violation beginline="21" endline="51" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="RouteStepValidateAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/listener/async/WebhookAsyncListener.java">
+<violation beginline="24" endline="103" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.listener.async" class="WebhookAsyncListener" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/context/AppContext.java">
+<violation beginline="32" endline="243" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.context" class="AppContext" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Acl.java">
+<violation beginline="17" endline="122" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Acl" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/AuditLog.java">
+<violation beginline="22" endline="132" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="AuditLog" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/AuthenticationToken.java">
+<violation beginline="19" endline="136" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="AuthenticationToken" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/BaseFunction.java">
+<violation beginline="17" endline="39" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="BaseFunction" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Comment.java">
+<violation beginline="19" endline="119" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Comment" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Config.java">
+<violation beginline="20" endline="57" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Config" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Contributor.java">
+<violation beginline="17" endline="69" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Contributor" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Document.java">
+<violation beginline="18" endline="271" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Document" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/DocumentMetadata.java">
+<violation beginline="18" endline="91" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="DocumentMetadata" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/DocumentTag.java">
+<violation beginline="20" endline="91" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="DocumentTag" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/File.java">
+<violation beginline="17" endline="233" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="File" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Group.java">
+<violation beginline="19" endline="111" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Group" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Metadata.java">
+<violation beginline="16" endline="92" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Metadata" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/PasswordRecovery.java">
+<violation beginline="18" endline="82" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="PasswordRecovery" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Relation.java">
+<violation beginline="19" endline="85" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Relation" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Role.java">
+<violation beginline="19" endline="84" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Role" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/RoleBaseFunction.java">
+<violation beginline="19" endline="99" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="RoleBaseFunction" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Route.java">
+<violation beginline="18" endline="109" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Route" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/RouteModel.java">
+<violation beginline="18" endline="107" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="RouteModel" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/RouteStep.java">
+<violation beginline="17" endline="231" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="RouteStep" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Share.java">
+<violation beginline="20" endline="81" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Share" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Tag.java">
+<violation beginline="19" endline="133" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Tag" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/User.java">
+<violation beginline="18" endline="229" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="User" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/UserGroup.java">
+<violation beginline="20" endline="91" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="UserGroup" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Vocabulary.java">
+<violation beginline="17" endline="84" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Vocabulary" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/model/jpa/Webhook.java">
+<violation beginline="16" endline="108" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.model.jpa" class="Webhook" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/service/InboxService.java">
+<violation beginline="195" endline="271" begincolumn="13" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.service" class="InboxService" method="importMessage" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'importMessage(Message, Map)' has a cyclomatic complexity of 12.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/DirectoryUtil.java">
+<violation beginline="23" endline="51" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="DirectoryUtil" method="getBaseDataDirectory" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'getBaseDataDirectory()' has a cyclomatic complexity of 10.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/FileUtil.java">
+<violation beginline="117" endline="212" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="FileUtil" method="createFile" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'createFile(String, String, Path, long, String, String, String)' has a cyclomatic complexity of 15.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/MetadataUtil.java">
+<violation beginline="33" endline="84" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="MetadataUtil" method="updateMetadata" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'updateMetadata(String, List, List)' has a cyclomatic complexity of 14.
+</violation>
+<violation beginline="93" endline="120" begincolumn="20" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="MetadataUtil" method="validateValue" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'validateValue(MetadataType, String)' has a cyclomatic complexity of 12.
+</violation>
+<violation beginline="158" endline="195" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="MetadataUtil" method="addMetadata" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'addMetadata(JsonObjectBuilder, String)' has a cyclomatic complexity of 10.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/PdfUtil.java">
+<violation beginline="52" endline="119" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="PdfUtil" method="convertToPdf" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'convertToPdf(DocumentDto, List, boolean, boolean, int, OutputStream)' has a cyclomatic complexity of 12.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/TransactionUtil.java">
+<violation beginline="27" endline="86" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util" class="TransactionUtil" method="handle" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'handle(Runnable)' has a cyclomatic complexity of 13.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/action/AddTagAction.java">
+<violation beginline="18" endline="40" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.action" class="AddTagAction" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/action/ProcessFilesAction.java">
+<violation beginline="25" endline="64" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.action" class="ProcessFilesAction" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/action/RemoveTagAction.java">
+<violation beginline="18" endline="37" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.action" class="RemoveTagAction" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/action/TagAction.java">
+<violation beginline="15" endline="28" begincolumn="17" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.action" class="TagAction" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/authentication/InternalAuthenticationHandler.java">
+<violation beginline="13" endline="19" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.authentication" class="InternalAuthenticationHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/authentication/LdapAuthenticationHandler.java">
+<violation beginline="31" endline="127" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.authentication" class="LdapAuthenticationHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/DocxFormatHandler.java">
+<violation beginline="23" endline="72" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="DocxFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/ImageFormatHandler.java">
+<violation beginline="27" endline="101" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="ImageFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/OdtFormatHandler.java">
+<violation beginline="23" endline="72" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="OdtFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/PdfFormatHandler.java">
+<violation beginline="25" endline="82" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="PdfFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/PptxFormatHandler.java">
+<violation beginline="29" endline="98" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="PptxFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/TextPlainFormatHandler.java">
+<violation beginline="23" endline="57" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="TextPlainFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/format/VideoFormatHandler.java">
+<violation beginline="25" endline="78" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.format" class="VideoFormatHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/docs/core/util/indexing/LuceneIndexingHandler.java">
+<violation beginline="60" endline="620" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.docs.core.util.indexing" class="LuceneIndexingHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+<violation beginline="60" endline="620" begincolumn="8" endcolumn="1" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util.indexing" class="LuceneIndexingHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The class 'LuceneIndexingHandler' has a total cyclomatic complexity of 90 (highest 28).
+</violation>
+<violation beginline="238" endline="382" begincolumn="12" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util.indexing" class="LuceneIndexingHandler" method="findByCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'findByCriteria(PaginatedList, List, DocumentCriteria, SortCriteria)' has a cyclomatic complexity of 28.
+</violation>
+<violation beginline="497" endline="531" begincolumn="13" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.docs.core.util.indexing" class="LuceneIndexingHandler" method="getDocumentFromDocument" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'getDocumentFromDocument(Document)' has a cyclomatic complexity of 10.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/ClasspathScanner.java">
+<violation beginline="14" endline="58" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.util" class="ClasspathScanner" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/EmailUtil.java">
+<violation beginline="83" endline="169" begincolumn="20" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.util" class="EmailUtil" method="sendEmail" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'sendEmail(String, UserDto, String, Map)' has a cyclomatic complexity of 13.
+</violation>
+<violation beginline="193" endline="233" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.util" class="EmailUtil" method="parseMailContent" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'parseMailContent(Part, MailContent)' has a cyclomatic complexity of 10.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/HtmlToPlainText.java">
+<violation beginline="17" endline="92" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.util" class="HtmlToPlainText" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/ImageDeskew.java">
+<violation beginline="12" endline="22" begincolumn="12" endcolumn="5" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.util" class="ImageDeskew$HoughLine" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/ResourceUtil.java">
+<violation beginline="34" endline="89" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.util" class="ResourceUtil" method="list" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'list(Class, String, FilenameFilter)' has a cyclomatic complexity of 14.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/jpa/DbOpenHelper.java">
+<violation beginline="56" endline="125" begincolumn="12" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.util.jpa" class="DbOpenHelper" method="open" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'open()' has a cyclomatic complexity of 11.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/log4j/LogCriteria.java">
+<violation beginline="11" endline="54" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.util.log4j" class="LogCriteria" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/log4j/MemoryAppender.java">
+<violation beginline="22" endline="129" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.util.log4j" class="MemoryAppender" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+<violation beginline="101" endline="128" begincolumn="12" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.util.log4j" class="MemoryAppender" method="find" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'find(LogCriteria, PaginatedList)' has a cyclomatic complexity of 10.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/mime/MimeTypeUtil.java">
+<violation beginline="42" endline="69" begincolumn="19" endcolumn="5" rule="CyclomaticComplexity" ruleset="Design" package="com.sismics.util.mime" class="MimeTypeUtil" method="getFileExtension" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_design.html#cyclomaticcomplexity" priority="3">
+The method 'getFileExtension(String)' has a cyclomatic complexity of 12.
+</violation>
+</file>
+<file name="/mnt/c/Users/TangJiayang/Desktop/Teedy/docs-core/src/main/java/com/sismics/util/totp/GoogleAuthenticatorConfig.java">
+<violation beginline="35" endline="149" begincolumn="8" endcolumn="1" rule="AtLeastOneConstructor" ruleset="Code Style" package="com.sismics.util.totp" class="GoogleAuthenticatorConfig" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#atleastoneconstructor" priority="3">
+Each class should declare at least one constructor
+</violation>
+</file>
+</pmd>
